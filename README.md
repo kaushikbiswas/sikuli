@@ -1,17 +1,17 @@
 # sikuli (\*\*work in progress\*\*)
 
-Introduction
+## Introduction
 
-What is Sikuli
+### What is Sikuli
 Automation software that primarily uses image recognition to identify and control UI components
 Automates what is visually present in the screen
 Uses Python
 Built in Java so it is multi platform
-Setup
-Preqrequisites
+
+## Setup
+### Preqrequisites
 -	Sikuli uses Python for scripting (Jython)
 -	Any scripting skills like JavaScript, Ruby or Python 
-
 
 Verify that JVM is installed in your machine
 Go to Sikuli.com
