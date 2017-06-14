@@ -1,4 +1,4 @@
-# sikuli (Work in progress)
+# sikuli (**Work in progress**)
 
 Introduction
 
