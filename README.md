@@ -15,7 +15,7 @@ Built in Java so it is multi platform
 
 Verify that JVM is installed in your machine
 Go to Sikuli.com
-Download sikulixsetup.jar
+Download *sikulixsetup.jar*
 Run the jar (logically Pack 1)
 IDE and all relevant packages would be installed
 
