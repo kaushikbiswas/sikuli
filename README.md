@@ -19,11 +19,11 @@ Download *sikulixsetup.jar*
 Run the jar (logically Pack 1)
 IDE and all relevant packages would be installed
 
-Basics
-Sikuli interface
--	Sikuli comes with own IDE
--	Preojects can be created in the IDE and executed by themselves. After all it automates the screens
--	Its mostly drag and drop
+## Basics</br>
+### Sikuli interface
+*Sikuli comes with own IDE
+*Projects can be created in the IDE and executed by themselves. After all it automates the screens
+*Its mostly drag and drop
 
 
 
