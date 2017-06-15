@@ -18,7 +18,7 @@ Built in Java so it is multi platform
 -	Verify that JVM is installed in your machine
 -	Go to the [sikuili site](http://www.Sikulix.com)
 -	Download *sikulixsetup.jar*
--	Run the jar (logically Pack 1)
+-	Run the jar (logically this should be Pack 1)
 -	IDE and all relevant packages would be installed
 
 ## Basics</br>
@@ -29,9 +29,7 @@ Built in Java so it is multi platform
 
 
 
-
-
-Sikuli matches with 
+### Matching patterns 
 Pattern: Specify a consistent pattern to verify  
 String: predefined text to match on the screen
 Match: A match from a previous find
