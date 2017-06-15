@@ -13,11 +13,13 @@ Built in Java so it is multi platform
 -	Sikuli uses Python for scripting (Jython)
 -	Any scripting skills like JavaScript, Ruby or Python 
 
-Verify that JVM is installed in your machine
-Go to Sikuli.com
-Download *sikulixsetup.jar*
-Run the jar (logically Pack 1)
-IDE and all relevant packages would be installed
+### Steps to setup on your machine
+
+*Verify that JVM is installed in your machine
+*Go to the [sikuili site](http://www.Sikulix.com)
+*Download *sikulixsetup.jar*
+*Run the jar (logically Pack 1)
+*IDE and all relevant packages would be installed
 
 ## Basics</br>
 ### Sikuli interface
