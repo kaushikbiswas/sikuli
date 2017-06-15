@@ -15,17 +15,17 @@ Built in Java so it is multi platform
 
 ### Steps to setup on your machine
 
-*Verify that JVM is installed in your machine
-*Go to the [sikuili site](http://www.Sikulix.com)
-*Download *sikulixsetup.jar*
-*Run the jar (logically Pack 1)
-*IDE and all relevant packages would be installed
+-	Verify that JVM is installed in your machine
+-	Go to the [sikuili site](http://www.Sikulix.com)
+-	Download *sikulixsetup.jar*
+-	Run the jar (logically Pack 1)
+-	IDE and all relevant packages would be installed
 
 ## Basics</br>
 ### Sikuli interface
-*Sikuli comes with own IDE
-*Projects can be created in the IDE and executed by themselves. After all it automates the screens
-*Its mostly drag and drop
+-	Sikuli comes with own IDE
+-	Projects can be created in the IDE and executed by themselves. After all it automates the screens
+-	Its mostly drag and drop
 
 
 
