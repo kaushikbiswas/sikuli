@@ -48,7 +48,7 @@ Pattern contains a user defined image and information about the image, like size
 Conditional Automation
 Conditional Looping
 
-<(\*\*work in progress\*\*)>
+*<\*\*work in progress\*\*>*
 
 
 
