@@ -3,17 +3,19 @@
 ## Introduction
 
 ### What is Sikuli
-Automation software that primarily uses image recognition to identify and control UI components
-Automates what is visually present in the screen
-Uses Python
-Built in Java so it is multi platform
+* It is an automation software that primarily uses image recognition to identify and control UI components
+* Automates what is visually present in the screen
+* Uses OpenCV as the primary OCR
+* Uses Python as scripting language (known as Jython,  as it runs on Java environment)
+* Built in Java so it is multi platform
 
 ## Setup
 ### Preqrequisites
--	Sikuli uses Python for scripting (Jython)
--	Any scripting skills like JavaScript, Ruby or Python 
+-	Knowledge of Any scripting skills like JavaScript, Ruby or Python
+-	Knowledge of OOPS concepts
+- JVM installed in the machine
 
-### Steps to setup on your machine
+### Steps to setup sikuli on your machine
 
 -	Verify that JVM is installed in your machine
 -	Go to the [sikuli site](http://www.Sikulix.com)
