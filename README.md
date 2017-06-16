@@ -45,9 +45,9 @@ Pattern contains a user defined image and information about the image, like size
 <place and example to be provided>
 
 
-Further topics to be enhanced:
+Further topics to be enhanced: </br>
 
-Conditional Automation
+Conditional Automation 
 Conditional Looping
 
 *<\*\*work in progress\*\*>*
