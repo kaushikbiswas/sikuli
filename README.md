@@ -53,6 +53,6 @@ Conditional Looping
 
 
 ## Practical Examples
-There are 2 examples uploaded for explanation purposes. They include the properties I have provided above:</br>
-**calcProj.sikuli** - This is an exmple where the script detects if calculator is open or not. If it is already open, the script clears it and starts adding 1's until the hotkey (*Ctrl+F1*) is pressed. If the calculator application is not open, it opens the applications and continues its operation as mentioned. </br>
+There are 2 examples uploaded for explanation purposes. They include the properties I have provided above:</br></br>
+**calcProj.sikuli** - This is an exmple where the script detects if calculator is open or not. If it is already open, the script clears it and starts adding 1's until the hotkey (*Ctrl+F1*) is pressed. If the calculator application is not open, it opens the applications and continues its operation as mentioned. </br></br>
 **sendMail.sikuli** - This application opens an excel and extracts MailID, subject and mail body, composes a mail each in outlook and sends them to the individual recepients whose mail IDs are present. 
