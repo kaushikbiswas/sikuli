@@ -30,20 +30,20 @@ Built in Java so it is multi platform
 
 
 ### Matching patterns 
-Pattern: Specify a consistent pattern to verify  
-String: predefined text to match on the screen
-Match: A match from a previous find
-Region : A region object
-Location: location on the screen like coordinates	
+**Pattern**: Specify a consistent pattern to verify</br>
+**String**: predefined text to match on the screen</br>
+**Match**: A match from a previous find</br>
+**Region** : A region object</br>
+**Location**: location on the screen like coordinates</br>	
 
-Most commonly used are user defined patterns on the screens
+*The most ost commonly used are user defined patterns on the screens*
 
 
 Pattern contains a user defined image and information about the image, like size, similarity and target offset
-<place and example>
+<place and example to be provided>
 
 
-
+Further topics to be enhanced:
 
 Conditional Automation
 Conditional Looping
