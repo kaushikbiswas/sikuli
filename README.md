@@ -27,8 +27,6 @@ Built in Java so it is multi platform
 -	Ease of usage: There are options to drag and drop fill in information. Code changes can be set to minimal for simple problems
 - Object oriented:  The classes and methods are extensive and cover most of the common functions
 
-
-
 ### Matching patterns 
 Sikuli matches by various logic, such as: 
 
@@ -38,10 +36,10 @@ Sikuli matches by various logic, such as:
 **Region** : A region object</br>
 **Location**: location on the screen like coordinates</br>	
 
-*The most ost commonly used are user defined patterns on the screens*
+*The most commonly used is user defined patterns present on the screens*
 
+Pattern contains a user defined image and information about the image, like size, similarity and target offset. An example *calcProj* is provided with the details. Also it is to be noted that Sikuli automates anything which is on the current screen. Anything in the page below the screen needs to be logically broght into view before automating. 
 
-Pattern contains a user defined image and information about the image, like size, similarity and target offset
 <place and example to be provided>
 
 
