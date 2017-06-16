@@ -23,13 +23,15 @@ Built in Java so it is multi platform
 
 ## Basics</br>
 ### Sikuli interface
--	Sikuli comes with own IDE
--	Projects can be created in the IDE and executed by themselves. After all it automates the screens
--	Its mostly drag and drop
+-	Independent - Sikuli comes with own IDE. Projects can be created in the IDE and executed by themselves. After all it automates the screens
+-	Ease of usage: There are options to drag and drop fill in information. Code changes can be set to minimal for simple problems
+- Object oriented:  The classes and methods are extensive and cover most of the common functions
 
 
 
 ### Matching patterns 
+Sikuli matches by various logic, such as: 
+
 **Pattern**: Specify a consistent pattern to verify</br>
 **String**: predefined text to match on the screen</br>
 **Match**: A match from a previous find</br>
